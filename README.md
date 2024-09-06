@@ -1,4 +1,6 @@
-UI Tech Academy Project
+UI Tech Academy Project:- 
+
+
 Project Overview
 This project is part of the UI Tech Academy program, aimed at building a responsive, interactive web application for managing and displaying courses dynamically. The application includes key features such as course filtering, JSON data integration, and a responsive design that works seamlessly across devices.
 
@@ -8,9 +10,10 @@ Interactive Courses Page: Users can filter courses by categories or levels.
 Dynamic Content Integration: Course data is managed through JSON files, allowing for easy updates.
 Lazy Loading: Improves page load times by loading content as needed.
 Simplified About Us and Contact Us Pages: Clear and minimal design for easy navigation.
+
+
 Project Structure
-bash
-Copy code
+
 ├── index.html
 ├── about.html
 ├── contact.html
